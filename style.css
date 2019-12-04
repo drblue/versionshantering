@@ -3,3 +3,9 @@
 	margin: 0;
 	padding: 0;
 }
+
+body {
+	background-color: #333;
+	color: #fafafa;
+	padding: 1rem 1.5rem;
+}
